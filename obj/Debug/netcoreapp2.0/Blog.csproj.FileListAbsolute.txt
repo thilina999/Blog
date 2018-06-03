@@ -1,0 +1,10 @@
+D:\My Projects\dotNET\Blog\bin\Debug\netcoreapp2.0\Blog.deps.json
+D:\My Projects\dotNET\Blog\bin\Debug\netcoreapp2.0\Blog.runtimeconfig.json
+D:\My Projects\dotNET\Blog\bin\Debug\netcoreapp2.0\Blog.runtimeconfig.dev.json
+D:\My Projects\dotNET\Blog\bin\Debug\netcoreapp2.0\Blog.dll
+D:\My Projects\dotNET\Blog\bin\Debug\netcoreapp2.0\Blog.pdb
+D:\My Projects\dotNET\Blog\obj\Debug\netcoreapp2.0\Blog.csproj.CoreCompileInputs.cache
+D:\My Projects\dotNET\Blog\obj\Debug\netcoreapp2.0\Blog.AssemblyInfoInputs.cache
+D:\My Projects\dotNET\Blog\obj\Debug\netcoreapp2.0\Blog.AssemblyInfo.cs
+D:\My Projects\dotNET\Blog\obj\Debug\netcoreapp2.0\Blog.dll
+D:\My Projects\dotNET\Blog\obj\Debug\netcoreapp2.0\Blog.pdb
